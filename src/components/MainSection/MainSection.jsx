@@ -6,7 +6,6 @@ import AnchorLink from 'react-anchor-link-smooth-scroll';
 function MainSection() {
     return (
         <div className='main-section'>
-            
             <div className='title'>
             <h1>Linguagem de Estruturação / Apresentação de Conteúdos</h1>
             </div>
