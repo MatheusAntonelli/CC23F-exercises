@@ -3,7 +3,7 @@ import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import Atv2 from './views/Atv2';
 import MainPage from './views/MainPage';
 
-function routes() {
+function Routes() {
     return (
         <>
             <Router>
@@ -16,4 +16,4 @@ function routes() {
     )
 }
 
-export default routes
+export default Routes
